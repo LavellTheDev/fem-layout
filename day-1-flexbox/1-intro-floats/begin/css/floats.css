@@ -48,6 +48,46 @@ div img {
     background: yellow;
     display: inline-block;
     margin-left: 25px;
+    margin-top: 25px;
     width: 22%;
+  }
+
+  .rowTwo{
+    float: left;
+  }
+
+  .rowTwo article{
+    background: pink;
+    display: inline-block;
+    margin-left: 25px;
+    margin-top: 25px;
+    width: 46.5%;
+  }
+
+  .rowThree{
+    float: left;
+  }
+
+  .rowThree article{
+    display: inline-block;
+    background: lightgreen;
+    margin-top: 25px;
+    margin-left: 25px;
+    width: 63%;
+  }
+
+  .rowThree .thin{
+    background: yellow;
+    width: 30%;
+  }
+
+  .rowFour{
+    float: left;
+    margin-left: 25px;
+    width: 95.5%;
+  }
+
+  .rowFour article{
+    background: pink;
   }
 }
